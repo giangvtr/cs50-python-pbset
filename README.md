@@ -22,12 +22,8 @@ Each directory corresponds to a weekly problem set from the course:
 ---
 
 ## 🏆 Certificate
-
 <!-- Replace with your actual image path once uploaded -->
 ![My Certificate](CS50P-1.png)
-
-You can verify the original course and materials here:
-👉 [CS50 Python - Official Site](https://cs50.harvard.edu/python/)
 
 ---
 
@@ -40,7 +36,7 @@ You can verify the original course and materials here:
 
 ## 🧰 Tools Used
 
-- Python 3.11+
+- Python 3+
 - Visual Studio Code / VS Code with `check50` and `submit50` installed
 - Git & GitHub
 - `pytest` for unit testing
