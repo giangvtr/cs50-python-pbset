@@ -24,7 +24,7 @@ Each directory corresponds to a weekly problem set from the course:
 ## 🏆 Certificate
 
 <!-- Replace with your actual image path once uploaded -->
-![My Certificate](https://certificates.cs50.io/3c925ad2-e3d0-4407-bc70-b4a57750ed51.pdf?size=letter)
+![My Certificate](CS50P-1.png)
 
 You can verify the original course and materials here:
 👉 [CS50 Python - Official Site](https://cs50.harvard.edu/python/)
